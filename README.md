@@ -1,6 +1,6 @@
 # COVID-19 Detection Through Lung X-Rays
 Using Python as our primary programming language with open source libraries such as TensorFlow, we successfully created and implemented a machine learning model
-into a Streamlit web app that predicts the chance of COVID-19 through lung X-Rays.
+into a Streamlit web app that predicts the chance of COVID-19 through lung X-Rays. Check out the demo here: https://youtu.be/AOLh6A6DxEo
 
 ## Required Libraries
 - Tensorflow 2.2.0
